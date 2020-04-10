@@ -1,0 +1,159 @@
+
+body{
+  box-sizing: border-box;
+  background-color: #BBCCB3;
+
+}
+
+.top{
+  box-sizing: border-box;
+  background-color: ##BBCCB3;
+  border-bottom: 3px solid black;
+  font: Helvetica;
+  text-align: left;
+
+}
+
+.top img{
+  border-radius: 50%;
+  float: left;
+}
+
+.logo{
+  font-size: 120px;
+}
+
+.HEADING{
+  width: 100%;
+  float: left;
+}
+
+
+H1{
+color: #BBCCB3;
+  text-align: center;
+  font-size: 60px;
+  font: Helvetica;
+
+}
+
+.h2{
+  font-weight: lighter;
+  font-style: Helvetica;
+}
+
+p{
+  font-size: 30px;
+}
+
+.inner{
+  font-family: Helvetica;
+  font-style: italic;
+}
+
+
+
+.MOBILE{
+  width: 33.3%;
+  float: left;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+
+.grey{
+  width:33.3%;
+  float: left;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid blue;
+  text-align: center;
+}
+
+.iph7{
+  width:33.4%;
+  float: left;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+.iph8{
+  width:25%;
+  float: left;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid blue;
+  text-align: center;
+}
+
+.menubar{
+  box-sizing: border-box;
+
+}
+
+.customer{
+  box-sizing: border-box;
+}
+
+.customrecare{
+  width: 50%;
+  float: left;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+  border-top: : 1px solid orange;
+  text-align: center;
+}
+
+.open{
+
+  width: 50%;
+  float: left;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+  border-top: : 1px solid orange;
+  text-align: center;
+
+}
+
+
+
+.mb{
+  width: 33.3%;
+  float: left;
+  padding-top:10px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin-bottom: 10px;
+  font-style: arial;
+  text-decoration: none;
+}
+
+.offer{
+  box-sizing: border-box;
+  text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.of50{
+
+  width: 25%;
+  float: left;
+}
+
+.MOBILE img{
+  border-radius: 35%
+}
+
+.grey img{
+  border-radius: 35%
+}
+
+.iph7 img{
+  border-radius: 35%
+}
